@@ -1,6 +1,6 @@
 # Facial-Expression-Identifier
-It detects facial expression by capuring your image by webcam and then predicting the emotion, i.e, happy, angry, surprised or sad.
-It uses inception v3 model for image calssification and haar-cascade for face detection.  
+It detects facial expression by capturing your image by webcam and then predicting the emotion, i.e, happy, angry, surprised or sad.
+It uses inception v3 model for image classification and haar-cascade for face detection.  
 
 ## IMPLEMENTATION:-
 ### DEPENDENCIES:-
